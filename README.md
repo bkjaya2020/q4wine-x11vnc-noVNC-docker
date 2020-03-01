@@ -1,4 +1,4 @@
-# A docker novnc desktop with q4wine image for installing wine apps 
+# A docker image novnc desktop with q4wine  for installing wine apps
 
 A docker image with  q4wine x11vnc & noVNC
 
