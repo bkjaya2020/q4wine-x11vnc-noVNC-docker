@@ -1,4 +1,4 @@
-# Docker image of SMath Studio pre-installed
+# A docker novnc desktop with q4wine image for installing wine apps 
 
 A docker image with  q4wine x11vnc & noVNC
 
