@@ -10,13 +10,13 @@ The idea to create an image was inspired by the Kyle Anderson's  solarkennedy/wi
 
 Usage :-
 
-To create a smath container (name smath) using bkjaya1952/q4wine-x11vnc-noVNC-docker
+To create a smath container (name smath) using bkjaya1952/q4wine-x11vnc-novnc-docker
 
-Refer:- https://hub.docker.com/r/bkjaya1952/q4wine-x11vnc-noVNC-docker
+Refer:- https://hub.docker.com/r/bkjaya1952/q4wine-x11vnc-novnc-docker
 
 On the Ubuntu terminal
 
-<code>sudo docker create -t -p 8008:8080 --name wnovnc --privileged=true bkjaya1952/wine-x11vnc-noVNC-docker</code>
+<code>sudo docker create -t -p 8008:8080 --name wnovnc --privileged=true bkjaya1952/q4wine-x11vnc-novnc-docker</code>
 
 <code>sudo docker start wnovnc</code>
 
