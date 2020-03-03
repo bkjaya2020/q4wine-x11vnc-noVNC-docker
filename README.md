@@ -26,7 +26,9 @@ Then the novnc desktop with q4wine will appear on the web browser at the startup
 
 At the first run of the docker container , you will have to run the first startup wizard to configure the q4wine as follows.
 
-The it will automatically download wine and install.
+Right click the mouse on winecfg and run
+
+Then it will automatically download wine and install.
 
 <img src="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/Screenshot%20from%202020-03-01%2012-26-54.png" alt="https://raw.githubusercontent.com/bkjaya2020/q4wine-x11vnc-noVNC-docker/master/Screenshot%20from%202020-03-01%2012-26-54.png" width="625" height="520">
 
