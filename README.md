@@ -63,4 +63,8 @@ Go to the top line of the file , press insert key on your key board and enter yo
 
 Then press the Esc key and Shift :x to save & quit the file
 
+Please refer the following link to get more details on usage
+
+https://bkjaya.wordpress.com/2020/03/04/a-docker-image-novnc-desktop-with-q4wine-for-installing-wine-apps/
+
 
